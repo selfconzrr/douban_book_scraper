@@ -113,6 +113,8 @@ publishYearsUrl = []
 newPresssUrl = []
 allInfo = []
 
+print ("Starting Main \n 普通爬取开始时时间")
+print(time.ctime(time.time()))
 
 #实现翻页,每页25个
 for page in range(0,450,25):
@@ -170,3 +172,5 @@ print(len(publishYearsUrl))
 print(len(isbnsUrl))
 
 saveInfo(allInfo)
+print ("Exiting Main \n 普通爬取结束时时间")
+print(time.ctime(time.time()))
