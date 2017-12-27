@@ -9,3 +9,9 @@
 相关GitHub：爬虫豆瓣电影源代码   https://github.com/selfconzrr/douban_movie_scraper_python
 
 博客有详细解释：欢迎交流学习  http://blog.csdn.net/u011489043/article/details/63255902
+
+如果您觉得这份源码对您有所启发、有所帮助，可以给我打赏一元钱，去买个茶叶蛋吃，谢谢~~~~
+
+支付宝：![](http://img.my.csdn.net/uploads/201712/18/1513565109_7086.jpg)
+
+微信：![](http://img.my.csdn.net/uploads/201712/18/1513565109_7023.jpg)
