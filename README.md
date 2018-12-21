@@ -4,7 +4,7 @@
 
 结果图：
 
-![](http://img.blog.csdn.net/20170408224039785?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdTAxMTQ4OTA0Mw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![](https://img-blog.csdn.net/20170408224039785?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdTAxMTQ4OTA0Mw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 相关GitHub：爬虫豆瓣电影源代码   https://github.com/selfconzrr/douban_movie_scraper_python
 
