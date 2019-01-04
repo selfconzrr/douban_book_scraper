@@ -1,5 +1,5 @@
 # douban_book_scraper
-如果您觉得文章、代码对您有所帮助，恳请点下 star，谢谢您的认可。
+**如果您觉得文章、代码对您有所帮助，恳请点下 star，谢谢您的认可。**
 
 博客有详细解释：欢迎交流学习  http://blog.csdn.net/u011489043/article/details/63255902
 
